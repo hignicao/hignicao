@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hignicao&label=Profile%20views&color=0e75b6&style=flat" alt="hignicao" /> </p>
 <h1 align="center"><b>Hi! I'm Hugo Ignacio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <p align="center"><em>Welcome to my Github profile! I'm a physics student and full stack developer </em></p>
 
@@ -14,7 +15,7 @@
 
 ## ⚙️ _Languages and Tools_
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex;gap: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -46,3 +47,7 @@
 <br>
 
 ![Snake animation](https://github.com/hignicao/hignicao/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
