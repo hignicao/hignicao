@@ -6,9 +6,9 @@
 
 <div align="center">
  <a href="https://github.com/hignicao">
- <img height="190em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hignicao&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
- <img height="190em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hignicao&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
- <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hignicao&theme=dark&hide_border=true"/>
+ <img height="140em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hignicao&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+ <img height="140em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hignicao&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+ <img height="140em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hignicao&theme=dark&hide_border=true"/>
 </div>
 
 <br>
