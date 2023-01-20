@@ -6,16 +6,16 @@
 
 <div align="center">
  <a href="https://github.com/hignicao">
- <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hignicao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hignicao&layout=compact&langs_count=8&theme=dark"/>
- <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=hignicao&theme=dark&hide_border=false"/>
+ <img height="190em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hignicao&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+ <img height="190em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hignicao&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+ <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hignicao&theme=dark&hide_border=true"/>
 </div>
 
 <br>
 
 ## ⚙️ _Languages and Tools_
 
-<div style="display: flex;gap: 10px;">
+<div style="display: flex;gap: 10px;" align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -35,10 +35,11 @@
 </div>
 
 <br>
+<br>
 
 ## 💬 _Social Media_
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px;" align="center">
   <a href="https://instagram.com/hg.ignacio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hugoignacio@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugoignacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -46,7 +47,9 @@
 
 <br>
 
-![Snake animation](https://github.com/hignicao/hignicao/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/hignicao/hignicao/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
+</div>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
