@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hignicao&label=Profile%20views&color=0e75b6&style=flat" alt="hignicao" /> </p>
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhignicao&label=visitors&labelColor=%23d9e3f0&countColor=%23555555&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhignicao)
 <h1 align="center"><b>Hi! I'm Hugo Ignacio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <p align="center"><em>Welcome to my Github profile! I'm a physics student and full stack developer </em></p>
 
