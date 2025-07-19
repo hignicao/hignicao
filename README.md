@@ -8,8 +8,7 @@ My name is Hugo, I'm 26 years old, and I'm passionate about the technology field
 My GitHub profile serves as a repository of my projects and demonstrates my growth as a developer over time. I actively contribute to open-source projects and leverage the platform to collaborate with other developers, learn from their expertise, and share my own knowledge.
 
 
-![](https://github-readme-stats.vercel.app/api?username=hignicao&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hignicao&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=hignicao&theme=dark&hide_border=true&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=hignicao&theme=dark&hide_border=true)
 
 ## 🌐 _Social Media_:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hg.ignacio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugoignacio) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoignacio@id.uff.br)
