@@ -4,7 +4,7 @@
 <p align="center"><em>Welcome to my Github profile! I'm a physics student and full stack developer </em></p>
 
 ## 💫 _About Me_:
-My name is Hugo, I'm 24 years old, and I'm passionate about the technology field. I have always had a natural inclination and ease when it comes to tasks that require logical reasoning.
+My name is Hugo, I'm 26 years old, and I'm passionate about the technology field. I have always had a natural inclination and ease when it comes to tasks that require logical reasoning.
 My GitHub profile serves as a repository of my projects and demonstrates my growth as a developer over time. I actively contribute to open-source projects and leverage the platform to collaborate with other developers, learn from their expertise, and share my own knowledge.
 
 
@@ -45,10 +45,6 @@ My GitHub profile serves as a repository of my projects and demonstrates my grow
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-<div align="center">
-  <img src="https://github.com/hignicao/hignicao/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
-</div>
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
